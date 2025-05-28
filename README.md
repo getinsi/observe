@@ -42,4 +42,4 @@
 ### 📬 Contact
 
 📧 Email: [getinsitools@gmail.com](mailto:getinsitools@gmail.com)  
-🌐 Website (coming soon): [getinsi.com](https://getinsi.com)
+🌐 Website: [getinsi.com](https://getinsi.com)
