@@ -7,6 +7,11 @@ available while development continues separately. See the
 [distribution status](docs/ESTADO-DISTRIBUCION.md) and [documentation log](BITACORA.md)
 for the recorded release identifiers and scope of the latest documentation update.
 
+For product information and current download or installation inquiries, visit
+[Observe by GetInSI](https://observe.getinsi.com/) or
+[email GetInSI](mailto:getinsitools@gmail.com?subject=Observe%20download%20request).
+This contact page does not announce a new installer or change the releases in this repository.
+
 ---
 
 ### 🚀 Features
