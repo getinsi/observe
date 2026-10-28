@@ -2,6 +2,11 @@
 
 **GetInSI Observe** is a lightweight forensic tool for network and syslog analysis, tailored for IT/OT and SOC environments.
 
+This repository is the public distribution channel. Published versions can remain
+available while development continues separately. See the
+[distribution status](docs/ESTADO-DISTRIBUCION.md) and [documentation log](BITACORA.md)
+for the recorded release identifiers and scope of the latest documentation update.
+
 ---
 
 ### 🚀 Features
